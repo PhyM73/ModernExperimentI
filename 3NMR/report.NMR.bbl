@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{textbook}
+吴思诚，荀坤.
+\newblock {\em 近代物理实验.第四版}.
+\newblock 高等教育出版社, 北京, 2015.
+
+\bibitem{purcell}
+Edward~M Purcell, Henry~Cutler Torrey, and Robert~V Pound.
+\newblock Resonance absorption by nuclear magnetic moments in a solid.
+\newblock {\em Physical review}, 69(1-2):37, 1946.
+
+\bibitem{bloch}
+Felix Bloch.
+\newblock Nuclear induction.
+\newblock {\em Physical review}, 70(7-8):460, 1946.
+
+\bibitem{lindeman1971}
+LP~Lindeman and JQ~Adama.
+\newblock Carbon-13 nuclear magnetic resonance spectrometry. chemical shifts
+  for the paraffins through c9.
+\newblock {\em Analytical Chemistry}, 43(10):1245--1252, 1971.
+
+\bibitem{wishart1991}
+David~S Wishart, Brian~D Sykes, and Frederic~M Richards.
+\newblock Relationship between nuclear magnetic resonance chemical shift and
+  protein secondary structure.
+\newblock {\em Journal of molecular biology}, 222(2):311--333, 1991.
+
+\bibitem{wennerstrom1977biological}
+H{\aa}kan Wennerstr{\"o}m and G{\"o}ran Lindblom.
+\newblock Biological and model membranes studied by nuclear magnetic resonance
+  of spin one half nuclei.
+\newblock {\em Quarterly reviews of biophysics}, 10(1):67--96, 1977.
+
+\bibitem{coates1994nuclear}
+George~R Coates, Melvin~N Miller, and John~C Bouton.
+\newblock Nuclear magnetic resonance detection of geologic structures, May~3
+  1994.
+\newblock US Patent 5,309,098.
+
+\bibitem{coates1996nuclear}
+George~R Coates.
+\newblock Nuclear magnetic resonance determination of petrophysical properties
+  of geologic structures, September~17 1996.
+\newblock US Patent 5,557,200.
+
+\bibitem{morris1986nuclear}
+Peter~G Morris.
+\newblock Nuclear magnetic resonance imaging in medicine and biology.
+\newblock 1986.
+
+\bibitem{block1946nuclear}
+F~Block, WW~Hansen, and M~Packard.
+\newblock The nuclear induction experiment.
+\newblock {\em Physical Review}, 70(7-8):474--485, 1946.
+
+\end{thebibliography}
